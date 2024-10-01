@@ -1,4 +1,6 @@
-[Link Dashboard Tableau](https://public.tableau.com/views/PersonalFinancialRiskAnalysis/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Dashboard Link](https://public.tableau.com/views/PersonalFinancialRiskAnalysis/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Slides Link](https://www.canva.com/design/DAGSVp_AmOk/iuX2ed_9O2lz2cyxfs-wyQ/view?utm_content=DAGSVp_AmOk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 # Objective
