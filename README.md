@@ -6,7 +6,7 @@
 # Objective
 In this notebook, I analyzed [a dataset](https://www.kaggle.com/datasets/preethamgouda/financial-risk) of Personal Financial Risk.
 
-The main objective of this project is to create visualizations that simplify insights derived by readers about financial risk globally.
+The main objective of this project is to create visualizations that will help readers understand personal financial risk.
 
 # Analysis
 To meet the defined objective, I explored the dataset by answering the following questions:
